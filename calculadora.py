@@ -11,5 +11,5 @@ def calcular(a, b):
 
     return suma, resta, multi, division
 
-
+print("Calculando")
 print(calcular(8, 2))
