@@ -1,2 +1,4 @@
-print("hola bebas")
+nombre = "jefferso"
+
+print(f"hola bebas {nombre}")
 
